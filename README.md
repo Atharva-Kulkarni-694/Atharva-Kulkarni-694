@@ -77,8 +77,6 @@ Currently, I'm focused on applying AI & ML in practical, real-time projects. I t
 🔹 **Quagster Website** *(Startup Project)*  
 ➡ Full-stack authentication-based platform with user dashboards and modern UI/UX.  
 
-🔹 **AutoWorx AI (RAG Chatbot Integration)**  
-➡ Embedded AI assistant for contextual queries on startup site (React + LangChain).  
 
 > 🛠️ Always building. Always learning. Always adapting.
 
