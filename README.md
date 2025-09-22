@@ -21,9 +21,10 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 ## 🌟 AI Experiments Showcase  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment1.gif" alt="AI Experiment 1" height="200" />
-  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment2.gif" alt="AI Experiment 2" height="200" />
-  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment3.gif" alt="AI Experiment 3" height="200" />
+  <a href="https://github.com/Atharva-Kulkarni-694/GitHub-Timeline-Updates"><img src="https://img.shields.io/badge/GitHub%20Timeline-Updates-blue?style=for-the-badge&logo=github" alt="GitHub Timeline"/></a>
+  <a href="https://github.com/Atharva-Kulkarni-694/Social-Media-Automation"><img src="https://img.shields.io/badge/Social%20Media-Automation-red?style=for-the-badge&logo=github" alt="Social Media Automation"/></a>
+  <a href="https://github.com/Atharva-Kulkarni-694/Industrial-Temp-PH-Monitoring"><img src="https://img.shields.io/badge/Temp%20%26%20PH-Monitoring-green?style=for-the-badge&logo=github" alt="IoT Monitoring"/></a>
+  <a href="https://github.com/Atharva-Kulkarni-694/AI-Expense-Tracker"><img src="https://img.shields.io/badge/AI-Expense%20Tracker-yellow?style=for-the-badge&logo=github" alt="AI Expense Tracker"/></a>
 </div>
 
 > 🚀 Each experiment highlights AI/ML applied in real-world tasks, from automation to predictive analytics.
