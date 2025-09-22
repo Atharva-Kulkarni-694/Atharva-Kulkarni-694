@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Atharva Kulkarni</h1>
-<h3 align="center">AI/ML Developer | Data Science Enthusiast | Mentor | Leader</h3>
+<h3 align="center">AI/ML Developer | Data Science Enthusiast | Startup Co-Founder</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharva-Kulkarni-694&color=blue" alt="Profile views" />
@@ -18,18 +18,45 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 
 ---
 
-## 🚀 GitHub Portfolio Highlights  
+## 🌟 AI Experiments Showcase  
 
 <div align="center">
-  <a href="https://github.com/Atharva-Kulkarni-694/GitHub-Timeline-Updates"><img src="https://img.shields.io/badge/GitHub%20Timeline-Updates-blue?style=for-the-badge&logo=github" alt="GitHub Timeline"/></a>
-  <a href="https://github.com/Atharva-Kulkarni-694/Social-Media-Automation"><img src="https://img.shields.io/badge/Social%20Media-Automation-red?style=for-the-badge&logo=github" alt="Social Media Automation"/></a>
-  <a href="https://github.com/Atharva-Kulkarni-694/Industrial-Temp-PH-Monitoring"><img src="https://img.shields.io/badge/Temp%20%26%20PH-Monitoring-green?style=for-the-badge&logo=github" alt="IoT Monitoring"/></a>
-  <a href="https://github.com/Atharva-Kulkarni-694/AI-Expense-Tracker"><img src="https://img.shields.io/badge/AI-Expense%20Tracker-yellow?style=for-the-badge&logo=github" alt="AI Expense Tracker"/></a>
+  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment1.gif" alt="AI Experiment 1" height="200" />
+  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment2.gif" alt="AI Experiment 2" height="200" />
+  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/ai_experiment3.gif" alt="AI Experiment 3" height="200" />
+</div>
+
+> 🚀 Each experiment highlights AI/ML applied in real-world tasks, from automation to predictive analytics.
+
+---
+
+## 🚀 Key Projects  
+
+| Project | Description | Tech Stack | Status |
+|--------|------------|------------|--------|
+| **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
+| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, ML, React | ✅ Completed |
+| **Industrial Temp & PH Monitoring** | IoT-based real-time monitoring | Python, Sensors, IoT | ✅ Completed |
+| **AI Expense Tracker** | ML-driven expense categorization & dashboards | Python, Flask, ML | ✅ Completed |
+| **Quagster Website** | Full-stack platform for startup | React, Flask, MySQL | 🔄 Ongoing |
+
+---
+
+## 📊 GitHub Stats & Contribution Graph  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni-694&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Atharva-Kulkarni-694&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Kulkarni-694&theme=dracula&area=true&radius=16" height="300" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/pacman-contribution-graph.svg" height="300" alt="Pacman Contribution Graph"/>
 </div>
 
 ---
 
-## 🌟 Skills & Tech Stack  
+## 🛠️ Skills & Tech Stack  
 
 <div align="center">
 
@@ -54,31 +81,9 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 
 ---
 
-## 🔬 AI Experiments & Projects  
-
-| Project | Description | Tech Stack | Status |
-|--------|------------|------------|--------|
-| **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
-| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, ML, React | ✅ Completed |
-| **Industrial Temp & PH Monitoring** | IoT-based real-time monitoring | Python, Sensors, IoT | ✅ Completed |
-| **AI Expense Tracker** | ML-driven expense categorization & dashboards | Python, Flask, ML | ✅ Completed |
-| **Quagster Website** | Full-stack platform for startup | React, Flask, MySQL | 🔄 Ongoing |
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni-694&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Atharva-Kulkarni-694&theme=dracula" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Kulkarni-694&theme=dracula&area=true&radius=16" height="300" />
-</div>
-
----
-
 ## 🧠 Currently Learning  
 
-- Advanced ML workflows & model tuning  
+- Advanced ML model optimization & deployment  
 - Agentic AI & RAG-based architectures  
 - Scalable data pipelines & automation  
 - Full-stack Flask + React integrations  
@@ -107,4 +112,4 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 
 ---
 
-⭐️ *Thanks for visiting! If any project catches your eye, let’s connect, collaborate, or give it a ⭐️.*
+⭐️ *Thanks for visiting! Check out the AI experiments and pacman graph—feel free to connect, collaborate, or give a ⭐️.*
