@@ -1,39 +1,34 @@
 <h1 align="center">👋 Hello! I'm Atharva Kulkarni</h1>
 
-###
-
 <div align="center">
   <b>AI/ML Developer | Data Science Enthusiast | Startup Co-Founder</b>  
   <br/>
-  Driven by innovation, growth, and building tools that solve real-world problems using AI, automation, and full-stack development.
+  Driving innovation through AI, automation, and full-stack development. Passionate about building scalable solutions that solve real-world problems.
 </div>
 
 ---
 
 ## 🚀 About Me  
 
-🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune <br>
-💫 Ex-Secretary And PR Head @AICC , GHRCEM , Pune <br>
-🚀 Co-Founder & Developer @ Quagster <br>
+🎓 B.Tech in Computer Science (AI) @ GHRCEM, Pune  
+💫 Ex-Secretary & PR Head @ AICC, GHRCEM, Pune  
+🚀 Co-Founder & Developer @ Quagster  
 📍 Pune, India  
 
-Currently, I'm focused on applying AI & ML in practical, real-time projects. I thrive in collaborative environments and love contributing to early-stage ideas that have scale and impact.
-
+I focus on **applied AI & ML projects**, from real-time systems to agentic AI workflows. Experienced in **team leadership**, mentorship, and driving early-stage ideas to execution.
 
 ---
 
 ## 📊 GitHub Stats & Activity  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni-694&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Atharva-Kulkarni-694&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Kulkarni-694&theme=dracula&area=true&radius=16" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni-694&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=Atharva-Kulkarni-694&theme=dracula&margin-w=8&margin-h=8" height="150" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Kulkarni-694&theme=dracula&area=true&radius=16" height="300" alt="Activity graph" />
 </div>
 
---- 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/pacman-contribution-graph.svg" height="300" alt="pacman animation" />
+  <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/pacman-contribution-graph.svg" height="300" alt="Pacman contribution graph" />
 </div>
 
 ---
@@ -42,7 +37,7 @@ Currently, I'm focused on applying AI & ML in practical, real-time projects. I t
 
 <div align="center">
 
-### 💻 Languages  
+### 💻 Programming Languages  
 <img src="https://skillicons.dev/icons?i=python,js,html,css,php" height="50" />
 
 ### 📚 Frameworks & Libraries  
@@ -63,35 +58,37 @@ Currently, I'm focused on applying AI & ML in practical, real-time projects. I t
 
 ---
 
-## 📂 Projects I’m Proud Of  
+## 📂 Projects & Highlights  
 
 🔹 **GitHub Timeline Updates Tool**  
-➡ Extracts and summarizes your GitHub activity in a timeline view using GitHub APIs.  
+➡ Extracts, summarizes, and visualizes GitHub activity in a clean timeline using APIs.  
 
 🔹 **Social Media Marketing Automation**  
-➡ AI-powered content scheduler with analytics and engagement prediction.  
+➡ AI-powered scheduler with predictive engagement analytics across multiple platforms.  
 
 🔹 **Industrial Temperature & pH Monitoring System**  
-➡ Sensor-based IoT project for anomaly detection, logging, and calibration.  
+➡ IoT-based real-time anomaly detection, calibration, and logging system for industrial setups.  
 
 🔹 **Quagster Website** *(Startup Project)*  
-➡ Full-stack authentication-based platform with user dashboards and modern UI/UX.  
+➡ Full-stack web platform with authentication, dashboards, and modern UI/UX design.  
 
+🔹 **AI Expense Tracker**  
+➡ ML-driven personal finance tool with categorization, visualization, and real-time analytics.  
 
-> 🛠️ Always building. Always learning. Always adapting.
+> 🛠️ Constantly building, learning, and pushing the boundaries of AI & software development.
 
 ---
 
 ## 🧠 Currently Learning  
 
-- Advanced ML workflows & model tuning  
-- Agentic & RAG-based AI architecture  
-- Scalable data pipelines  
-- Flask + React integrations  
+- Advanced ML model optimization & deployment  
+- Agentic AI & RAG-based architectures  
+- Scalable data pipelines with automation  
+- Full-stack integrations: Flask + React + Cloud  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Connect with Me  
 
 <div align="center">
   <a href="mailto:kulkarniatharva879@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30"/></a>
@@ -106,10 +103,11 @@ Currently, I'm focused on applying AI & ML in practical, real-time projects. I t
 ## 🔥 Quick Facts  
 
 - 😄 Pronouns: He/Him  
-- ⚡ Fun Fact: You can count on me.  
-- 💪 Strength: My adaptability and obsession with personal growth.  
-- 💬 Motto: Learn. Build. Repeat.  
+- ⚡ Fun Fact: Extremely disciplined and results-oriented  
+- 💪 Strength: Adaptable, growth-focused, and highly motivated  
+- 💬 Motto: **Learn. Build. Repeat.**  
+- 🏆 Notable: Led technical and non-technical teams, mentored juniors, delivered end-to-end AI & IoT projects  
 
 ---
 
-⭐️ *Thanks for visiting! If you find any project interesting, feel free to connect, collaborate, or give it a ⭐️.*
+⭐️ *Thanks for visiting! Feel free to connect, collaborate, or give my projects a ⭐️.*
