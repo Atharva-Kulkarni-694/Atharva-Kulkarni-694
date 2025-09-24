@@ -25,7 +25,7 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
   <a href="https://github.com/Atharva-Kulkarni-694/Social-Media-Automation"><img src="https://img.shields.io/badge/Social%20Media-Automation-red?style=for-the-badge&logo=github" alt="Social Media Automation"/></a>
   <a href="https://github.com/Atharva-Kulkarni-694/Industrial-Temp-PH-Monitoring"><img src="https://img.shields.io/badge/Temp%20%26%20PH-Monitoring-green?style=for-the-badge&logo=github" alt="IoT Monitoring"/></a>
   <a href="https://github.com/Atharva-Kulkarni-694/AI-Expense-Tracker"><img src="https://img.shields.io/badge/AI-Expense%20Tracker-yellow?style=for-the-badge&logo=github" alt="AI Expense Tracker"/></a>
-  <a href="https://github.com/Atharva-Kulkarni-694/Payment-Fraud-Detection"><img src="https://img.shields.io/badge/AI-Expense%20Tracker-yellow?style=for-the-badge&logo=github" alt="Paymnet Fraud Detection"/></a>
+  <a href="https://github.com/Atharva-Kulkarni-694/Payment-Fraud-Detection"><img src="https://img.shields.io/badge/Payment-Fraud%20Detection-yellow?style=for-the-badge&logo=github" alt="Paymnet Fraud Detection"/></a>
 </div>
 
 > 🚀 Each experiment highlights AI/ML applied in real-world tasks, from automation to predictive analytics.
