@@ -37,10 +37,11 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 | Project | Description | Tech Stack | Status |
 |--------|------------|------------|--------|
 | **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
-| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, ML, React | ✅ Completed |
+| **Payment Fraud Detection** | Detect Malicious Payment Activities | Python, FastAPI, Streamlit, SQL | ✅ Completed |
+| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, ML, React | 🔄 Ongoing |
 | **Industrial Temp & PH Monitoring** | IoT-based real-time monitoring | Python, Sensors, IoT | ✅ Completed |
 | **AI Expense Tracker** | ML-driven expense categorization & dashboards | Python, Flask, ML | ✅ Completed |
-| **Quagster Website** | Full-stack platform for startup | React, Flask, MySQL | 🔄 Ongoing |
+| **Quagster Website** | Full-stack platform for startup | React, Flask, MySQL | ✅ Completed |
 
 ---
 
