@@ -39,7 +39,7 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 |--------|------------|------------|--------|
 | **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
 | **Payment Fraud Detection** | Detect Malicious Payment Activities | Python, FastAPI, Streamlit, SQL | ✅ Completed |
-| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, ML, React | 🔄 Ongoing |
+| **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, Streamlit, SQL | 🔄 Ongoing |
 | **Industrial Temp & PH Monitoring** | IoT-based real-time monitoring | Python, Sensors, IoT | ✅ Completed |
 | **AI Expense Tracker** | ML-driven expense categorization & dashboards | Python, Flask, ML | ✅ Completed |
 | **Quagster Website** | Full-stack platform for startup | React, Flask, MySQL | ✅ Completed |
