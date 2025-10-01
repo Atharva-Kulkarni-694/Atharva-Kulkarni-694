@@ -114,6 +114,20 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 - 💬 Motto: **Learn. Build. Repeat.**  
 - 🏆 Notable: Led technical & non-technical teams, mentored juniors, delivered end-to-end AI & IoT projects  
 
+
+---
+
+## 🎵 Recently Played on Spotify  
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/0WZVDBNhUjN61jVBYvhrUo" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
+  </a>
+</div>
+
+
+
+
 ---
 
 ⭐️ *Thanks for visiting! Check out the AI experiments and pacman graph—feel free to connect, collaborate, or give a ⭐️.*
