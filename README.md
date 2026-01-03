@@ -69,16 +69,24 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 
 ### 📚 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,react" height="50" />
+
 <img src="https://avatars.githubusercontent.com/u/356106?s=200&v=4" height="50" alt="scikit-learn"/>
+
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="HuggingFace"/>
 
 ### 🛠️ Tools & Platforms
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+
 <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n"/>
 
 </div>
