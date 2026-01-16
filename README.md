@@ -11,6 +11,7 @@
 
 🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune  
 💫 Ex-Secretary & PR Head @ AICC, GHRCEM, Pune  
+✌️ Business Analyst @ Pilates Studio, Pune
 🚀 Co-Founder & Developer @ Quagster  
 📍 Pune, India  
 
