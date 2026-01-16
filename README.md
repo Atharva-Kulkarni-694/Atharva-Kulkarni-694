@@ -37,6 +37,7 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 
 | Project | Description | Tech Stack | Status |
 |--------|------------|------------|--------|
+| **SalesPilot AI** | AI-Powered Email Generator And Scheduler | React, PostgreSQL, SMTP | ✅ Completed |
 | **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
 | **Payment Fraud Detection** | Detect Malicious Payment Activities | Python, FastAPI, Streamlit, SQL | ✅ Completed |
 | **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, Streamlit, SQL | 🔄 Ongoing |
