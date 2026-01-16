@@ -8,12 +8,13 @@
 ---
 
 ## 💡 About Me  
+✌️ Business Analyst @ Pilates Studio, Pune 
 
 🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune  
 💫 Ex-Secretary & PR Head @ AICC, GHRCEM, Pune  
-✌️ Business Analyst @ Pilates Studio, Pune
 🚀 Co-Founder & Developer @ Quagster  
 📍 Pune, India  
+
 
 I build **scalable AI & ML solutions**, real-time systems, and **full-stack applications**. Passionate about **automation, innovation, and mentorship**.  
 
