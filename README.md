@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me  
-✌️ Business Analyst @ Pilates Studio, Pune 
+✌️ Ex-Business Analyst @ Pilates Studio, Pune 
 
 🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune  
 💫 Ex-Secretary & PR Head @ AICC, GHRCEM, Pune  
