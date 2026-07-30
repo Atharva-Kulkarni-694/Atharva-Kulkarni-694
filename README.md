@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Atharva Kulkarni</h1>
-<h3 align="center">AI/ML Developer | Data Science Enthusiast | Business Analyst</h3>
+<h3 align="center">AI/ML Developer | Concept Trainer | Business Analyst | Speaker</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Atharva-Kulkarni-694&color=blue" alt="Profile views" />
