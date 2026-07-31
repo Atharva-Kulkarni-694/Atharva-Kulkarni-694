@@ -9,6 +9,7 @@
 
 ## 💡 About Me  
 😎 Team Leader @ Rapid AI Automations Labs
+
 ✌️ Ex-Business Analyst @ Pilates Studio, Pune 
 
 🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune  
