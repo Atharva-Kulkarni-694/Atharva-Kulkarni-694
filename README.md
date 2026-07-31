@@ -8,14 +8,12 @@
 ---
 
 ## 💡 About Me  
-😎 Team Leader @ Rapid AI Automations Labs
-
-✌️ Ex-Business Analyst @ Pilates Studio, Pune 
-
-🎓 B.Tech Computer Science (AI) @ GHRCEM, Pune  
-💫 Ex-Secretary & PR Head @ AICC, GHRCEM, Pune  
-🚀 Co-Founder & Developer @ Quagster  
-📍 Pune, India  
+* 🚀 **Team Leader** @ Rapid AI Automations Labs
+* 💡 **Co-Founder & Developer** @ Quagster
+* 📊 **Ex-Business Analyst** @ Pilates Studio, Pune
+* 🎓 **B.Tech CS (AI)** @ GHRCEM, Pune
+* 🌟 **Ex-Secretary & PR Head** @ AICC, GHRCEM, Pune
+* 📍 Pune, India  
 
 
 I build **scalable AI & ML solutions**, real-time systems, and **full-stack applications**. Passionate about **automation, innovation, and mentorship**.  
