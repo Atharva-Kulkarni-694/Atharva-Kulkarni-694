@@ -40,7 +40,7 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 |--------|------------|------------|--------|
 | **SalesPilot AI** | AI-Powered Email Generator And Scheduler | React, PostgreSQL, SMTP | ✅ Completed |
 | **GitHub Timeline Updates** | Visualize & summarize GitHub activity | Python, Flask, GitHub API | ✅ Completed |
-| **Payment Fraud Detection** | Detect Malicious Payment Activities | Python, FastAPI, Streamlit, SQL | ✅ Completed |
+| **Cookieless Multi-Touch Attribution** | Budget Allocator And Optimization Engine For MNC's | Python, Flask, React, SQL | ✅ Completed |
 | **Social Media Marketing Automation** | AI scheduler & analytics tool | Python, Streamlit, SQL | 🔄 Ongoing |
 | **Industrial Temp & PH Monitoring** | IoT-based real-time monitoring | Python, Sensors, IoT | ✅ Completed |
 | **AI Expense Tracker** | ML-driven expense categorization & dashboards | Python, Flask, ML | ✅ Completed |
