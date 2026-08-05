@@ -51,12 +51,6 @@ I build **scalable AI & ML solutions**, real-time systems, and **full-stack appl
 ## 📊 GitHub Stats & Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni-694&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Atharva-Kulkarni-694&theme=dracula" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Kulkarni-694&theme=dracula&area=true&radius=16" height="300" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Atharva-Kulkarni-694/Atharva-Kulkarni-694/output/pacman-contribution-graph.svg" height="300" alt="Pacman Contribution Graph"/>
 </div>
 
