@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me  
-* 🚀 **Team Leader** @ Rapid AI Automations Labs
+* 🚀 **Data Science Trainer** @ YESS INFOTECH , Pune
 * 💡 **Co-Founder & Developer** @ Quagster
 * 📊 **Ex-Business Analyst** @ Pilates Studio, Pune
 * 🎓 **B.Tech CS (AI)** @ GHRCEM, Pune
