@@ -9,7 +9,6 @@
 
 ## 💡 About Me  
 * 🚀 **Data Science Trainer** @ YESS INFOTECH , Pune
-* 💡 **Co-Founder & Developer** @ Quagster
 * 📊 **Ex-Business Analyst** @ Pilates Studio, Pune
 * 🎓 **B.Tech CS (AI)** @ GHRCEM, Pune
 * 🌟 **Ex-Secretary & PR Head** @ AICC, GHRCEM, Pune
